@@ -9,7 +9,7 @@
   - [OSCP Preparation](https://github.com/GiovanniOcasio/OSCP_Prep_Writeups)
   - [HackTheBox Write Ups](https://github.com/GiovanniOcasio/HTB_Writeups)
 - <b>Python</b>
-  - [Python Crach Course From NoStarchPress](https://github.com/GiovanniOcasio/Python_Crash_Course)
+  - [Python Crash Course From NoStarchPress](https://github.com/GiovanniOcasio/Python_Crash_Course)
 - <b>Coming Soon</b>
   - [Black Hat Bash From NoStarchPress](https://github.com/GiovanniOcasio/Black_Hat_Bash)
   - [Windows AV Evasion & Malware Development](https://github.com/GiovanniOcasio/AV_Evasion-Malware_Development)
