@@ -10,6 +10,8 @@
   - [HackTheBox Write Ups](https://github.com/GiovanniOcasio/HTB_Writeups)
 - <b>Python</b>
   - [Python Crash Course From NoStarchPress](https://github.com/GiovanniOcasio/Python_Crash_Course)
+- <b>Hak5</b>
+  - [Hacking with Hak5 Gear](https://github.com/GiovanniOcasio/Hak5_Gear)
 - <b>Coming Soon</b>
   - [Black Hat Bash From NoStarchPress](https://github.com/GiovanniOcasio/Black_Hat_Bash)
   - [Windows AV Evasion & Malware Development](https://github.com/GiovanniOcasio/AV_Evasion-Malware_Development)
