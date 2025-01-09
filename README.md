@@ -12,6 +12,7 @@
   - [Python Crash Course From NoStarchPress](https://github.com/GiovanniOcasio/Python_Crash_Course)
 - <b>Phishing and C2 Frameworks</b>
   - [Sliver](https://github.com/GiovanniOcasio/Sliver)
+  - [Armitage](https://github.com/GiovanniOcasio/Armitage)
 - <b>Hak5</b>
   - [Hacking with Hak5 Gear](https://github.com/GiovanniOcasio/Hak5_Gear)
 - <b>Coming Soon</b>
