@@ -8,6 +8,8 @@
 - <b>Vulnerable Machine Write Ups</b>
   - [OSCP Preparation](https://github.com/GiovanniOcasio/OSCP_Prep_Writeups)
   - [HackTheBox Write Ups](https://github.com/GiovanniOcasio/HTB_Writeups)
+- <b>Red Team</b>
+  - [Red Team Activities](https://github.com/GiovanniOcasio/Red_Team)
 - <b>Python</b>
   - [Python Crash Course From NoStarchPress](https://github.com/GiovanniOcasio/Python_Crash_Course)
 - <b>Phishing and C2 Frameworks</b>
