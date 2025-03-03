@@ -10,6 +10,7 @@
   - [HackTheBox Write Ups](https://github.com/GiovanniOcasio/HTB_Writeups)
 - <b>Red Team</b>
   - [Red Team Activities](https://github.com/GiovanniOcasio/Red_Team)
+  - [Windows AV Evasion & Malware Development](https://github.com/GiovanniOcasio/AV_Evasion-Malware_Development)
 - <b>Python</b>
   - [Python Crash Course From NoStarchPress](https://github.com/GiovanniOcasio/Python_Crash_Course)
 - <b>Phishing and C2 Frameworks</b>
@@ -18,8 +19,7 @@
 - <b>Hak5</b>
   - [Hacking with Hak5 Gear](https://github.com/GiovanniOcasio/Hak5_Gear)
 - <b>Coming Soon</b>
-  - [Black Hat Bash From NoStarchPress](https://github.com/GiovanniOcasio/Black_Hat_Bash)
-  - [Windows AV Evasion & Malware Development](https://github.com/GiovanniOcasio/AV_Evasion-Malware_Development)
+  - [Black Hat Bash From NoStarchPress](https://github.com/GiovanniOcasio/Black_Hat_Bash)  
   - [IoT Penetration Testing](https://github.com/GiovanniOcasio/IoT_Pentesting)
   - [MacOS Malware](https://github.com/GiovanniOcasio/Mac_Malware)
 
