@@ -14,7 +14,7 @@
 - <b>Python</b>
   - [Python Crash Course From NoStarchPress](https://github.com/GiovanniOcasio/Python_Crash_Course)
 - <b>Malware Analysis and Triage</b>
-  - - [TCM Security PMAT Notes](https://github.com/GiovanniOcasio/PMAT-Notes)
+  - [TCM Security PMAT Notes](https://github.com/GiovanniOcasio/PMAT-Notes)
 - <b>Phishing and C2 Frameworks</b>
   - [Sliver](https://github.com/GiovanniOcasio/Sliver)
   - [Armitage](https://github.com/GiovanniOcasio/Armitage)
