@@ -13,6 +13,8 @@
   - [Windows AV Evasion & Malware Development](https://github.com/GiovanniOcasio/AV_Evasion-Malware_Development)
 - <b>Python</b>
   - [Python Crash Course From NoStarchPress](https://github.com/GiovanniOcasio/Python_Crash_Course)
+- <b>Assembly</b>
+  -[Assembly Notes](https://github.com/GiovanniOcasio/Assembly_Notes)
 - <b>Malware Analysis and Triage</b>
   - [TCM Security PMAT Notes](https://github.com/GiovanniOcasio/PMAT-Notes)
 - <b>Phishing and C2 Frameworks</b>
